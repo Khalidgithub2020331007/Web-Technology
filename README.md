@@ -1,4 +1,9 @@
 # Web-Technology
+# Check Ubuntu Version
+    lsb_release -a
+    lsb_release -r
+    cat /etc/lsb-release
+
 # Installing Apache
     sudo apt update
     sudo apt install apache2
